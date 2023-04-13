@@ -1,0 +1,7 @@
+{
+  "defaultHost": "jokerhub.cn",
+  "defaultHostPort": 25565,
+  "defaultProxy": "proxy.jokerhub.cn",
+  "defaultProxyPort": 443,
+  "defaultVersion": "1.19.3"
+}
